@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30379439/README.md)
 <p align="center">
   <a href="https://github.com/hazaalela">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Hazal" alt="Hello! I&#39;m Hazal" />
