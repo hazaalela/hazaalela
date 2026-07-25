@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/hazaalela">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4F8EF7&fontSize=54&height=90&width=602&text=Hi, I'm Hazal 👋" alt="Hi, I'm Hazal 👋" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4F8EF7&fontSize=54&height=90&width=602&text=Hi,%20I'm%20Hazal%20👋" alt="Hi, I&#39;m Hazal 👋" />
   </a>
 </p>
 
